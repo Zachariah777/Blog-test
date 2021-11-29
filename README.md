@@ -12,7 +12,9 @@ html表单控件都有
 3. file
 4. text
 5. submit
-   
+
+这是我的第一篇[博客](https://github.com/Zachariah777/blog-test)
+
 学过的编程语言有  `HTML`  `CSS`  `JS`
 ,以下是我用所学的知识写的一段代码
 
