@@ -27,7 +27,7 @@
 ```
 #### 2. section: 章节标签, 标签定义文档中的章节、页眉、页脚或文档中的其他部分.
 ```html
-<scection>
+<section>
    <h1>标题</h1>
    <p>内容</p>
 </section>
