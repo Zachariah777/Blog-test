@@ -6,7 +6,7 @@
 ## 2.  HTML 起手应该怎么写?
    ```html
 <!DOCTYPE html>
-<html lang="en">                                            <!-- 文档类型,中文应改成"zh-CN" -->
+<html lang="en">                                              <!-- 文档类型,中文应改成"zh-CN" -->
    <head>
       <meta charset="UTF-8">                                     <!-- 文件字符编码,建议默认 -->
       <meta http-equiv="X-UA-Compatible" content="IE=edge">      <!-- 告诉IE采用最新内核版本去渲染网页 -->
