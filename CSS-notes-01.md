@@ -24,7 +24,7 @@ border box 盒模型的计算方式为：width/height = content + padding + bord
 ***
 ## 三. margin塌陷问题
 ### 1. 相邻块元素垂直外边距的合并(兄弟 margin 塌陷)<br>
-    当上下相邻的两个块元素相遇时，如果上面的元素有下外边距 margin-bottom，下面的元素有上外边距margin-top，则他们之间的垂直间距不是 margin-bottom 与 margin-top 之和，而是两者中的较大者。这种现象被称为相邻块元素垂直外边距的合并（也称外边距塌陷）但是这种合并是符合预期的。<br>
+当上下相邻的两个块元素相遇时，如果上面的元素有下外边距 margin-bottom，下面的元素有上外边距margin-top，则他们之间的垂直间距不是 margin-bottom 与 margin-top 之和，而是两者中的较大者。这种现象被称为相邻块元素垂直外边距的合并（也称外边距塌陷）但是这种合并是符合预期的。<br>
 
 ![兄弟margin合并](images/兄弟margin合并.jpg)
 
