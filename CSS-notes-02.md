@@ -12,7 +12,7 @@
 
 transition 过渡可以为一个元素在不同状态之间切换的时候定义不同的过渡效果。transition的属性有transition-property（css属性name）、transition-duration（动画持续时间）、transition-timing-function（动画的变化过程速度曲线）、transition-delay（动画延迟时间）<br>
 `transiton: 过渡属性 过渡时间 过渡动画函数 过渡延迟时间；`<br>
-而animation属性可以像Flash制作动画一样，通过控制关键帧来控制动画的每一步，实现更为复杂的动画效果。
+而animation属性可以像Flash制作动画一样，通过控制关键帧来控制动画的每一步，实现更为复杂的动画效果。<br>
 `animation: 动画时间 过渡方式 动画延迟 动画循环次数 动画方向 动画时间外的属性 是否暂停 动画名字`<br>
 （1）animation-name：none为默认值，将没有任何动画效果，其可以用来覆盖任何动画<br>
 （2）animation-duration：默认值为0，意味着动画周期为0，也就是没有任何动画效果<br>
