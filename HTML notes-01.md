@@ -1,7 +1,7 @@
 # HTML 入门笔记
 
 ## 1. HTML 是谁发明的?
-   [HTML](https://zh.wikipedia.org/wiki/HTML)的英文全称是 Hyper Text Markup Language，即超文本标记语言。HTML是由Web的发明者 Tim Berners-Lee(李爵士)和同事 Daniel W. Connolly于1990年创立的一种标记语言，它是标准通用化标记语言SGML的应用。
+&emsp;&emsp;[HTML](https://zh.wikipedia.org/wiki/HTML) 的英文全称是 Hyper Text Markup Language，即超文本标记语言。HTML是由Web的发明者 Tim Berners-Lee(李爵士)和同事 Daniel W. Connolly于1990年创立的一种标记语言，它是标准通用化标记语言SGML的应用。
 
 ## 2.  HTML 起手应该怎么写?
    ```html

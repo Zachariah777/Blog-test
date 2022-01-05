@@ -1,21 +1,21 @@
 # 自我介绍
 
-你好,我叫史博文.我的爱好是
+&emsp;&emsp;你好,我叫史博文.我的爱好是
 * 上网
 * 看电影
 * 旅游
 * 听音乐
   
-html表单控件都有
+&emsp;&emsp;html表单控件都有
 1. button
 2. checkbox
 3. file
 4. text
 5. submit
 
-这是我的第一篇[博客](https://github.com/Zachariah777/blog-test)
+&emsp;&emsp;这是我的第一篇[博客](https://github.com/Zachariah777/blog-test)
 
-学过的编程语言有  `HTML`  `CSS`  `JS`
+&emsp;&emsp;学过的编程语言有  `HTML`  `CSS`  `JS`
 ,以下是我用所学的知识写的一段代码
 
 ```html
